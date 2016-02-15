@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+You set up a new place to track changes in your files.  A folder or folders that have all changes to files tracked as long as you commit the changes.

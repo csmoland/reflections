@@ -1,0 +1,16 @@
+Git Bash
+
+cd asteroids  - example of how to change the directory to the folder that you are trying to use
+
+git diff  237827428973 23428390824  - git the differences between the two commits
+
+git checkout 2347898323  - checkout that version of the commit and test it.  (Puts that at the Head of the commits until you revert back)
+
+git clone - copies entire repository including history onto the computer
+
+git log - shows all of the commits with comments that you made for each commit
+
+
+
+
+I'm going to use git to manage version control on my wordpress site that I will set up for the Leadership Development Training.

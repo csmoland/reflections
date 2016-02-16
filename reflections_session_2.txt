@@ -6,3 +6,10 @@ You set up a new place to track changes in your files.  A folder or folders that
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Staging area gets the file ready to commit.  It is after the working directoy and prior to the repository.  Not sure what value there is in that thinking other than you can still make changes once it's in the staging area.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+The staging area will show you what you are committing and when you see that compared to what you have in the working repository you can see if it makes sens as one logical change or if you have multiple.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?  Branches allow you to explore a different avenue without having to redo your entire code.  In addition, you can work on two separate sections to see which works better without having to start over.

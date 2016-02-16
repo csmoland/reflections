@@ -10,6 +10,10 @@ git clone - copies entire repository including history onto the computer
 
 git log - shows all of the commits with comments that you made for each commit
 
+git diff - shows the difference between the working repository and the staging area
+
+git diff --staged - shows the difference between the staging area and your most recent committ
+
 
 
 

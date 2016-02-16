@@ -15,6 +15,18 @@ git diff - shows the difference between the working repository and the staging a
 git diff --staged - shows the difference between the staging area and your most recent committ
 
 
+git branch - checks for the branchs that you might have created (Master is the default)
+
+git branch nameofbranchhere - creates a new branch called 'nameofbranchhere'
+
+git checkout nameofbranchhere - switches to that branch
+
+
+
+
+
+
+
 
 
 I'm going to use git to manage version control on my wordpress site that I will set up for the Leadership Development Training.

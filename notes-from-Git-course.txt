@@ -21,6 +21,12 @@ git branch nameofbranchhere - creates a new branch called 'nameofbranchhere'
 
 git checkout nameofbranchhere - switches to that branch
 
+git ls-files - shows what files are in the folder
+
+
+
+git log --graph --oneline master  - This puts the commits into an easy to read list  master indicates the master branch
+
 
 
 

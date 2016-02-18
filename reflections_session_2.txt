@@ -13,3 +13,8 @@ The staging area will show you what you are committing and when you see that com
 
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?  Branches allow you to explore a different avenue without having to redo your entire code.  In addition, you can work on two separate sections to see which works better without having to start over.
+
+
+How do the diagrams help you visualize the branch structure?
+
+They help you see where you are and where the branches break off.  They also make it easy to see if you have any unreachable commits.

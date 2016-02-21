@@ -23,9 +23,15 @@ git checkout nameofbranchhere - switches to that branch
 
 git ls-files - shows what files are in the folder
 
-
+git merge nameofbranch1 nameofbranch2 - merges two branches into a new branch
 
 git log --graph --oneline master  - This puts the commits into an easy to read list  master indicates the master branch
+
+git show commitnumberhere - will show the difference in the commit vs it's parent. Useful when you have merged two branches and don't know the parent.
+
+git branch -d nameofbranch - deletes the branch label.  If you have merged the commits will still be reachable
+
+git reset --hard commitnumberhere - will reset the HEAD of the branch to that commit, effectively deleting the other commits
 
 
 

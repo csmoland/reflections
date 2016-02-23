@@ -34,6 +34,17 @@ git branch -d nameofbranch - deletes the branch label.  If you have merged the c
 git reset --hard commitnumberhere - will reset the HEAD of the branch to that commit, effectively deleting the other commits
 
 
+setup a repository on github (only select initialize a readme file if you have no commits alreay)
+git remote add origin https://github.com/csmoland/nameofrepositoryhere  - Origin is common for first branch
+
+git remote - shows the linked repositories
+
+git remote -v - shows verbose version
+
+git push origin master - Pushes the files to origin from the master branch on computer (substitute any other name for master if different branch)
+
+
+
 
 
 

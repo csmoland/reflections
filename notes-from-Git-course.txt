@@ -43,6 +43,8 @@ git remote -v - shows verbose version
 
 git push origin master - Pushes the files to origin from the master branch on computer (substitute any other name for master if different branch)
 
+git pull origin master - pulls files onto the local from Github  (same order as git push Github then local  (origin master))
+
 
 
 
